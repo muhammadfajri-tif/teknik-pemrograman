@@ -1,0 +1,7 @@
+
+T
+java:S5993#"9Change the visibility of this constructor to "protected".(ï’õ—ùÿÿÿÿ
+{
+java:S3038;"Y"calculatePay" is defined in the "Employee" interface and can be removed from this class.(òº‘ïûÿÿÿÿ8Äñ„Äà1
+ˆ
+java:S3038["f"checkPromotionEligibility" is defined in the "Employee" interface and can be removed from this class.(òº‘ïûÿÿÿÿ8Æñ„Äà1
