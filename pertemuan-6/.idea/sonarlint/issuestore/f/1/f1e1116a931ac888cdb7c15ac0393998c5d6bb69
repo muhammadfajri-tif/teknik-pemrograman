@@ -1,0 +1,11 @@
+
+w
+java:S3740
+"/Provide the parametrized type for this generic.(ªò‘Šúÿÿÿÿ8¿ž‰‚å1J$18281de0-39b1-439c-8a51-410f282c5a4d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¬³°ýÿÿÿÿ8Áž‰‚å1J$aee9bd3e-c668-4de5-9b41-6dd199eae97d
+“
+java:S1206#"PThis class overrides "equals()" and should therefore also override "hashCode()".(°Ñµ˜8Èž‰‚å1J$ef47032a-e5dc-4957-b94e-d47c32a2e86f
+i
+java:S1659"&Declare "lastName" on a separate line.(¿„ëÌ8Êž‰‚å1J$5e632f6d-c214-47e4-adce-45b8609c0c89
+b
+java:S2097#"Add a type test to this method.(°Ñµ˜8Íž‰‚å1J$d3e5d388-358d-4f4a-989a-92d4e6193724

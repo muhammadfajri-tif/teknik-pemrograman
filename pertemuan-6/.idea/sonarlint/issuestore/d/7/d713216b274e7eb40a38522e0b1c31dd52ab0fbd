@@ -1,0 +1,10 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü¬­ױ8כרמÿה1J$6f689728-a187-4f75-b41f-74e7ad6dba8d
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ù״₪Þ‎ÿÿÿÿ8׃התÿה1J$523d4efb-ab1a-417e-b182-bcdf0e7ec1af
+
+java:S1659$"GDeclare "ballAmount" and all following declarations on a separate line.(בÙן„üÿÿÿÿ8שüÿה1J$28ee4525-5915-4cc8-926d-39157fb893bb
+m	java:S106."+Replace this use of System.out by a logger.(‏‡8ףרמÿה1J$7751a983-da69-426d-a549-db6c5f2c22e4
+r	java:S106/"+Replace this use of System.out by a logger.(ך–™ףüÿÿÿÿ8פרמÿה1J$f97de61c-249d-4aab-8dc9-fca64d084f72
+m	java:S1060"+Replace this use of System.out by a logger.(½°´´8ץרמÿה1J$93884d1e-b8dc-4fa8-b9b6-00c5389ef4c4
+r	java:S1061"+Replace this use of System.out by a logger.(ץױפרÿÿÿÿ8צרמÿה1J$a0c29d7b-7a62-4763-961d-e1bc5a646a71
