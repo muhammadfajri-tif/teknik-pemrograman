@@ -5,14 +5,6 @@ D
 src/kasus1/Firm.java,2/3/23c0852b77cb5c520ec52d28224fe32f50d029db
 E
 src/kasus1/Staff.java,9/e/9e0fd770645fd5cdbf7e634dceee29d1df4d583d
-D
-src/Kasus1/Firm.java,5/3/5320d8d25ad58a4147cb1f2cb6eb3058a632f22e
-E
-src/Kasus1/Staff.java,7/0/70f271479ce83306bc0f06d3dc653e750ca8c523
-E
-src/kasus_1/Firm.java,d/e/de275acef7109b7f1fbb6a8e635fb01faf657849
-F
-src/kasus_1/Staff.java,3/9/39afd5a5d699cb81db92e9f6a5aba506a5ae27d1
 K
 src/kasus1/StaffMember.java,b/7/b74c469d47929f47d5ef98ceeed67191fbbca5a8
 I
@@ -23,8 +15,6 @@ I
 src/kasus1/Executive.java,2/4/2418d81867c689d19f7f8697856337bd1fd408f8
 F
 src/kasus1/Hourly.java,4/3/43d31a7a16d585d9703843a4184b428412ac6e89
-I
-src/kasus1/Comission.java,8/0/80c9a16583dfef5cd64b925482227826f40318b5
 J
 src/kasus1/Commission.java,e/4/e4d2f91570739f3d1738899c38c3dfc165b4aa49
 F
