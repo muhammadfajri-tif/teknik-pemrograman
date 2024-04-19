@@ -1,0 +1,9 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É¸ýä8ý¢Œ¬ï1J$e92320ce-6b8e-429a-855e-ed0931d31041
+ƒ
+java:S2259"@A "NullPointerException" could be thrown; "mm" is nullable here.(›÷µ¢8¬¤Œ¬ï1J$c9487ac3-64f3-491a-9e6c-09c49d0500fb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ð©¿ûÿÿÿÿ8¶¤Œ¬ï1J$cd72f651-fe8b-4cc0-9ea4-a0b6dfb07474
+m	java:S106"+Replace this use of System.out by a logger.(›÷µ¢8À¤Œ¬ï1J$e29c358c-9e79-4e69-be7a-5c295c7e3580
+m	java:S106"+Replace this use of System.out by a logger.(º˜¦®8Ã¤Œ¬ï1J$3368bf39-e20e-4f45-8eae-1d8c89dd939d
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¹Ú8Î¤Œ¬ï1J$c8268821-3bd7-4f95-b7b5-96ee914f1a2d

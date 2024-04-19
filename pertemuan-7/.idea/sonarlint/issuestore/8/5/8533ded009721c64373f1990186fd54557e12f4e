@@ -1,0 +1,15 @@
+
+¡
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(äÈ¼Âıÿÿÿÿ8ÖÙ©¬ï1J$0eb077c5-6313-4404-8a17-5b0cc7589ae5
+ü
+java:S1598"³This file "TypeLiterals.java" should be located in "genericReflection" directory, not in "/home/zrie/Devs/college/semester-2/teknik-pemrograman/pertemuan-7/src/GenericReflection".(İÍüÿÿÿÿ8€¢¨¬ï1J$0a493cc7-962b-4089-a27f-25173318eeb2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÍüÿÿÿÿ8„¢¨¬ï1J$08595325-d9b4-4cab-970a-dfe1283e00d5
+c
+java:S2326"T is not used in the class.(¢ïíüÿÿÿÿ8Ó¢¨¬ï1J$eec7d871-0a6e-40ec-b4c6-622e4198acef
+¤
+java:S6201"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(ı˜ÎÆûÿÿÿÿ8Ù¢¨¬ï1J$e98f055b-f88d-4812-92d1-ca0c755c8214
+i
+java:S1452'"&Remove usage of generic wildcard type.(¡‹Ç©8ŒÚ©¬ï1J$58c43f3d-a874-4275-8b11-3f558bbf28b0
+t
+java:S3011X",This accessibility update should be removed.(Í”úÆùÿÿÿÿ8›Ú©¬ï1J$8ee9b77b-de79-46f7-b688-01040617ead5
+n	java:S106"+Replace this use of System.out by a logger.(ÊğÇ§8¬Ú©¬ï1J$5f85f647-bcfe-404a-ba05-e54060af0bfa

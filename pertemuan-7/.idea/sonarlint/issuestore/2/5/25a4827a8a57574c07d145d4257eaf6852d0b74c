@@ -1,0 +1,31 @@
+
+’
+java:S1192'"JDefine a constant instead of duplicating this literal " extends " 4 times.(õ¥öÛıÿÿÿÿ8åè¬¬ï1J$c8c64086-1143-4b00-ac3e-f7361df294d1
+…
+java:S1598"¼This file "GenericReflectionTest.java" should be located in "genericReflection" directory, not in "/home/zrie/Devs/college/semester-2/teknik-pemrograman/pertemuan-7/src/GenericReflection".(İÍüÿÿÿÿ8éè¬¬ï1J$04b2f69b-e6f9-4e7a-8379-eebcb2564005
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÍüÿÿÿÿ8êè¬¬ï1J$189017c1-441c-45d8-a343-ebf9a4f04dd7
+m	java:S106"+Replace this use of System.out by a logger.(ˆó8·é¬¬ï1J$88c52b57-3e5f-4151-9d92-7385694f62bd
+r	java:S106#"+Replace this use of System.out by a logger.(Í©Ãßüÿÿÿÿ8½é¬¬ï1J$80cc1fe3-44b2-4cf7-88af-1f8e62419009
+r	java:S106'"+Replace this use of System.out by a logger.(õ¥öÛıÿÿÿÿ8¾é¬¬ï1J$74453664-5ecb-4474-b5cb-d28046086831
+r	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Àé¬¬ï1J$20486978-dc04-4f00-b416-22c601ab779c
+m	java:S1060"+Replace this use of System.out by a logger.(¯÷æ»8Áé¬¬ï1J$cca61003-7c3e-4f82-93ab-923904fa70b8
+m	java:S1061"+Replace this use of System.out by a logger.(×•œ²8Âé¬¬ï1J$fb2e99b6-e1f8-4f18-895e-2b59f7fead60
+m	java:S1065"+Replace this use of System.out by a logger.(×•œ²8Ãé¬¬ï1J$e9a2a7f2-a0e6-4a97-ab1b-ead4589c06c9
+r	java:S1066"+Replace this use of System.out by a logger.(Ù­ôğüÿÿÿÿ8Äé¬¬ï1J$6b07f0b6-0e22-4919-a37e-cc3218df1c3e
+m	java:S1067"+Replace this use of System.out by a logger.(ÛÃí8Äé¬¬ï1J$be4a6e46-e79c-4996-afd0-823c0230c9f4
+m	java:S1069"+Replace this use of System.out by a logger.(Èÿúö8Æé¬¬ï1J$44109ad7-2bc3-49df-a080-bd7802290c6c
+m	java:S106A"+Replace this use of System.out by a logger.(ä­8Èé¬¬ï1J$ad5d6c46-31f0-4892-a42a-e337626301de
+r	java:S106D"+Replace this use of System.out by a logger.(Òˆéùÿÿÿÿ8Êé¬¬ï1J$bd4622e1-f0ee-46b7-8360-1a79cf260e6e
+r	java:S106H"+Replace this use of System.out by a logger.(½¾ø·şÿÿÿÿ8Ëé¬¬ï1J$dfac4b92-01c5-4e55-bedb-ce14f7edbe34
+r	java:S106N"+Replace this use of System.out by a logger.(ä«êïüÿÿÿÿ8Íé¬¬ï1J$b310c8b2-f5a2-4907-b453-b09f9cc43225
+r	java:S106Q"+Replace this use of System.out by a logger.(ä«êïüÿÿÿÿ8Îé¬¬ï1J$69d574ae-4646-463d-a074-8f537102cc05
+
+java:S6201T"GReplace this instanceof check and cast with 'instanceof WildcardType t'(˜áÿ¡ûÿÿÿÿ8Ïé¬¬ï1J$4c44eeae-e6b3-4a07-932a-ef33a3e0495f
+m	java:S106V"+Replace this use of System.out by a logger.(•ŒÀÎ8Ğé¬¬ï1J$9a83c0bf-4802-4632-a08f-0a1ce54de33c
+
+java:S6201Y"LReplace this instanceof check and cast with 'instanceof ParameterizedType t'(·œò»8Òé¬¬ï1J$ef531086-6238-4835-9e91-3f0f49c51334
+r	java:S106^"+Replace this use of System.out by a logger.(å‡ëÇøÿÿÿÿ8Óé¬¬ï1J$0f85658f-d3d4-4a0e-8d4b-00dd8cd28480
+“
+java:S6201b"KReplace this instanceof check and cast with 'instanceof GenericArrayType t'(³€Ù·øÿÿÿÿ8Öé¬¬ï1J$46948169-038c-4f36-a79a-a03dd6dce488
+m	java:S106d"+Replace this use of System.out by a logger.(×•œ²8×é¬¬ï1J$5f5ca97b-3b96-4374-9b26-fe2a97f49872
+m	java:S106f"+Replace this use of System.out by a logger.(åğÇ8Ùé¬¬ï1J$2e7f5d58-e271-4c82-801f-5890c4089d18
