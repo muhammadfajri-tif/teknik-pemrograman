@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äÿ«ıÿÿÿÿ8Ü°ÎÅò1J$761b7b49-8f07-4341-a142-80fc629e5a81
+
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¬¦“×úÿÿÿÿ8í°ÎÅò1J$6cb4a824-68bd-4bb6-ac93-84fa067d7bd9
+d
+java:S1659"!Declare "sum" on a separate line.(»ú‚8ñ°ÎÅò1J$8af234d3-0177-4a6e-afb2-2246ed2d93ab
+k
+java:S1481	")Remove this unused "line" local variable.(çäªq8ö°ÎÅò1J$5ae95aca-8dc4-46fc-b125-9c1f3973d65d
+m	java:S106
+"+Replace this use of System.out by a logger.(÷˜†¸8÷°ÎÅò1J$ddb6a4d2-2df5-471c-88b2-451a4e28abca
+r	java:S106"+Replace this use of System.out by a logger.(ÑÑÎ˜ÿÿÿÿÿ8ú°ÎÅò1J$5dbd0c74-c2c7-4f4d-a00f-d49cbf20554f
+r	java:S106"+Replace this use of System.out by a logger.(ÄáÛùşÿÿÿÿ8ú°ÎÅò1J$90e4f076-c04c-4707-bb2b-f6b474094cdb
