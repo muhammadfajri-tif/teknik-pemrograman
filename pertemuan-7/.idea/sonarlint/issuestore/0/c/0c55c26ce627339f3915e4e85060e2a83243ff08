@@ -1,0 +1,29 @@
+
+e
+java:S1192'"JDefine a constant instead of duplicating this literal " extends " 4 times.(õ¥öÛıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÍüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ˆó
+E	java:S106#"+Replace this use of System.out by a logger.(Í©Ãßüÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(õ¥öÛıÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S1060"+Replace this use of System.out by a logger.(¯÷æ»
+@	java:S1061"+Replace this use of System.out by a logger.(×•œ²
+@	java:S1065"+Replace this use of System.out by a logger.(×•œ²
+E	java:S1066"+Replace this use of System.out by a logger.(Ù­ôğüÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(ÛÃí
+@	java:S1069"+Replace this use of System.out by a logger.(Èÿúö
+@	java:S106A"+Replace this use of System.out by a logger.(ä­
+E	java:S106D"+Replace this use of System.out by a logger.(Òˆéùÿÿÿÿ
+E	java:S106H"+Replace this use of System.out by a logger.(½¾ø·şÿÿÿÿ
+E	java:S106N"+Replace this use of System.out by a logger.(ä«êïüÿÿÿÿ
+E	java:S106Q"+Replace this use of System.out by a logger.(ä«êïüÿÿÿÿ
+b
+java:S6201T"GReplace this instanceof check and cast with 'instanceof WildcardType t'(˜áÿ¡ûÿÿÿÿ
+@	java:S106V"+Replace this use of System.out by a logger.(•ŒÀÎ
+b
+java:S6201Y"LReplace this instanceof check and cast with 'instanceof ParameterizedType t'(·œò»
+E	java:S106^"+Replace this use of System.out by a logger.(å‡ëÇøÿÿÿÿ
+f
+java:S6201b"KReplace this instanceof check and cast with 'instanceof GenericArrayType t'(³€Ù·øÿÿÿÿ
+@	java:S106d"+Replace this use of System.out by a logger.(×•œ²
+@	java:S106f"+Replace this use of System.out by a logger.(åğÇ

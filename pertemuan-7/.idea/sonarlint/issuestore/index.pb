@@ -11,10 +11,8 @@ F
 src/pair3/Manager.java,d/e/de366e4bcc7f76cc0d726f898a5bfb8d9c3279ce
 G
 src/pair3/Employee.java,3/0/3041fe55d8eee35ae2fe5adc488528d21bc9475e
-`
-0src/GenericReflection/GenericReflectionTest.java,2/5/25a4827a8a57574c07d145d4257eaf6852d0b74c
-W
-'src/GenericReflection/TypeLiterals.java,8/5/8533ded009721c64373f1990186fd54557e12f4e
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+`
+0src/genericReflection/GenericReflectionTest.java,0/c/0c55c26ce627339f3915e4e85060e2a83243ff08
