@@ -1,0 +1,13 @@
+
+
+java:S2184"BCast one of the operands of this addition operation to a "double".(·έύÿÿÿÿ8ψΊγώ1J$8813f428-805f-4c36-b492-eb69e811dab7
+j
+java:S1700""Rename field "detailedSalesReport"(―ζ…ςÿÿÿÿÿ8‰ψΊγώ1J$b66bd762-1c9d-4505-ac5a-bcb9c3e0b04d
+”
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(΄βƒ–8ψΊγώ1J$dfc9022e-1a1e-46ed-8e7b-d833e4fa69b1
+r	java:S106 "+Replace this use of System.out by a logger.(ª½θκÿÿÿÿÿ8–ψΊγώ1J$52fe3068-0620-4657-addd-88f39c3023c4
+΅
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8–ψΊγώ1J$f805f241-79c7-4e27-adc7-879631e3204c
+‰
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(έ€’¦ώÿÿÿÿ8—ψΊγώ1J$69ecad6e-465f-41d1-9f10-f048ae1c42e1
+r	java:S106$"+Replace this use of System.out by a logger.(ηΝγόÿÿÿÿ8—ψΊγώ1J$20ade528-e780-4f40-8c3d-8ffa4ecbdd15
